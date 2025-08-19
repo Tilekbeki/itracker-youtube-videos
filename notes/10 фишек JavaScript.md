@@ -1,9 +1,9 @@
 ---
 created at: 2025-08-19
-tags:
+tags: " "
 zero-links:
   - 00 Идеи для видео
-scheduled-at: 2025-09-01T14:00:00
+scheduled-at:
 completed-at:
 статус:
   - идея
