@@ -1,3 +1,4 @@
+
 ## Панель управления:
 Адрес: [https://cp.beget.com](https://cp.beget.com/)
 Логин: timurany
@@ -26,3 +27,5 @@ til200226 пароль
 |Количество баз MySQL:|![](https://resize.yandex.net/mailservice?url=https%3A%2F%2Fcp.beget.com%2Fshared%2F80de80ad9dd694da674e0eb94a96654d%2Finfinity2x.png&proxy=yes&key=9bea6140277812e7bee9a7555ab89420)|
 |Количество доменов:|![](https://resize.yandex.net/mailservice?url=https%3A%2F%2Fcp.beget.com%2Fshared%2F80de80ad9dd694da674e0eb94a96654d%2Finfinity2x.png&proxy=yes&key=9bea6140277812e7bee9a7555ab89420)|
 |Количество почтовых ящиков:|![](https://resize.yandex.net/mailservice?url=https%3A%2F%2Fcp.beget.com%2Fshared%2F80de80ad9dd694da674e0eb94a96654d%2Finfinity2x.png&proxy=yes&key=9bea6140277812e7bee9a7555ab89420)|
+
+[^1]: 
