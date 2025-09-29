@@ -26,12 +26,24 @@ TABLE WITHOUT ID
 WHERE zero-links AND contains(zero-links, "03.03 HTML")
 ```
 ## 03.04 CSS
-
-## 03.05 JavaScript
-
+```dataview
+TABLE WITHOUT ID
+	file.link as "Название"
+WHERE zero-links AND contains(zero-links, "03.04 CSS")
+```
+## 03.05 JS
+```dataview
+TABLE WITHOUT ID
+	file.link as "Название"
+WHERE zero-links AND contains(zero-links, "03.05 JS")
+```
 ## 03.06 OOP & FP
 Объектно-ориентированное программирование и функциональное программирование
-
+```dataview
+TABLE WITHOUT ID
+	file.link as "Название"
+WHERE zero-links AND contains(zero-links, "03.06 OOP & FP")
+```
 ## 03.07 JS in Browser
 
 ## 03.08 Async JS

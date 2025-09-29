@@ -9,6 +9,8 @@ https://greenshift.wpsoul.net/ сайт с готовыми секциями
 - WPForms простой конструктор формы
 - Forminator Forms тоже простой конструктор формы
 - Contact Form 7 Telegram расширение чтобы данные отправлялись в телеграм через бота
+- The SEO Framework плагин для сео оптимизации
+- Create Block Theme - для создания снуля темы
 
 
 ## Курс по Wordpress на блочных темах
