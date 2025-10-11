@@ -4,9 +4,9 @@ tags:
   - review
 zero-links:
   - 03.02 WEB API
-sr-due: 2025-09-22
-sr-interval: 3
-sr-ease: 250
+sr-due: 2025-11-08
+sr-interval: 39
+sr-ease: 270
 ---
 [Видео](https://www.youtube.com/watch?v=fN25fMQZ2v0)
 
